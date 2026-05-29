@@ -52,7 +52,7 @@ SSH-BruteForce-Detector/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/SSH-BruteForce-Detector.git
+https://github.com/vigneshVG20/SSH-Brute-Force-Attack-Detector.git
 cd SSH-BruteForce-Detector
 ```
 
